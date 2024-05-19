@@ -1,0 +1,71 @@
+{
+    "vertical_cards": [
+        {
+            "title": "Vertical card",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque magna lacus, volutpat vitae elementum eget, gravida ut mi. Morbi euismod laoreet massa a euismod. In ac ante sit amet odio fermentum consectetur. Nam vitae euismod lorem. Vivamus volutpat id ex ac faucibus. Integer pellentesque quis nibh et sodales. Donec hendrerit eros at posuere ultricies. Vestibulum sagittis purus non nulla semper aliquet. Vivamus dolor lacus, eleifend tempor posuere id, euismod sit amet orci.",
+            "image": {
+                "url": "https://images.unsplash.com/photo-1715351190944-a32bc9a900ab?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "alt": "imagem de uma floresta"
+            },
+            "publishDate": "05 de marc. 2024"
+        }
+    ],
+    "cards": [
+        {
+            "title": "Card",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque magna lacus, volutpat vitae elementum eget, gravida ut mi. Morbi euismod laoreet massa a euismod. In ac ante sit amet odio fermentum consectetur. Nam vitae euismod lorem. Vivamus volutpat id ex ac faucibus. Integer pellentesque quis nibh et sodales. Donec hendrerit eros at posuere ultricies. Vestibulum sagittis purus non nulla semper aliquet. Vivamus dolor lacus, eleifend tempor posuere id, euismod sit amet orci.",
+            "image": {
+                "url": "https://images.unsplash.com/photo-1715351190944-a32bc9a900ab?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "alt": "imagem de uma floresta"
+            },
+            "publishDate": "05 de marc. 2024"
+        },
+        {
+            "title": "Card sem imagem",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque magna lacus, volutpat vitae elementum eget, gravida ut mi. Morbi euismod laoreet massa a euismod. In ac ante sit amet odio fermentum consectetur. Nam vitae euismod lorem. Vivamus volutpat id ex ac faucibus. Integer pellentesque quis nibh et sodales. Donec hendrerit eros at posuere ultricies. Vestibulum sagittis purus non nulla semper aliquet. Vivamus dolor lacus, eleifend tempor posuere id, euismod sit amet orci.",
+            "publishDate": "05 de marc. 2024"
+        },
+        {
+            "title": "Card sem imagem",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque magna lacus, volutpat vitae elementum eget, gravida ut mi. Morbi euismod laoreet massa a euismod. In ac ante sit amet odio fermentum consectetur. Nam vitae euismod lorem. Vivamus volutpat id ex ac faucibus. Integer pellentesque quis nibh et sodales. Donec hendrerit eros at posuere ultricies. Vestibulum sagittis purus non nulla semper aliquet. Vivamus dolor lacus, eleifend tempor posuere id, euismod sit amet orci."
+        }
+    ],
+    "cards_carrousel": [
+        {
+            "title": "Card 1",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque magna lacus, volutpat vitae elementum eget, gravida ut mi. Morbi euismod laoreet massa a euismod. In ac ante sit amet odio fermentum consectetur. Nam vitae euismod lorem. Vivamus volutpat id ex ac faucibus. Integer pellentesque quis nibh et sodales. Donec hendrerit eros at posuere ultricies. Vestibulum sagittis purus non nulla semper aliquet. Vivamus dolor lacus, eleifend tempor posuere id, euismod sit amet orci.",
+            "image": {
+                "url": "https://images.unsplash.com/photo-1715351190944-a32bc9a900ab?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "alt": "imagem de uma floresta"
+            },
+            "publishDate": "05 de marc. 2024"
+        },
+        {
+            "title": "Card 2",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque magna lacus, volutpat vitae elementum eget, gravida ut mi. Morbi euismod laoreet massa a euismod. In ac ante sit amet odio fermentum consectetur. Nam vitae euismod lorem. Vivamus volutpat id ex ac faucibus. Integer pellentesque quis nibh et sodales. Donec hendrerit eros at posuere ultricies. Vestibulum sagittis purus non nulla semper aliquet. Vivamus dolor lacus, eleifend tempor posuere id, euismod sit amet orci.",
+            "image": {
+                "url": "https://images.unsplash.com/photo-1715351190944-a32bc9a900ab?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "alt": "imagem de uma floresta"
+            },
+            "publishDate": "05 de marc. 2024"
+        },{
+            "title": "Card 3",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque magna lacus, volutpat vitae elementum eget, gravida ut mi. Morbi euismod laoreet massa a euismod. In ac ante sit amet odio fermentum consectetur. Nam vitae euismod lorem. Vivamus volutpat id ex ac faucibus. Integer pellentesque quis nibh et sodales. Donec hendrerit eros at posuere ultricies. Vestibulum sagittis purus non nulla semper aliquet. Vivamus dolor lacus, eleifend tempor posuere id, euismod sit amet orci.",
+            "image": {
+                "url": "https://images.unsplash.com/photo-1715351190944-a32bc9a900ab?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "alt": "imagem de uma floresta"
+            },
+            "publishDate": "05 de marc. 2024"
+        },
+        {
+            "title": "Card 4",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque magna lacus, volutpat vitae elementum eget, gravida ut mi. Morbi euismod laoreet massa a euismod. In ac ante sit amet odio fermentum consectetur. Nam vitae euismod lorem. Vivamus volutpat id ex ac faucibus. Integer pellentesque quis nibh et sodales. Donec hendrerit eros at posuere ultricies. Vestibulum sagittis purus non nulla semper aliquet. Vivamus dolor lacus, eleifend tempor posuere id, euismod sit amet orci.",
+            "image": {
+                "url": "https://images.unsplash.com/photo-1715351190944-a32bc9a900ab?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "alt": "imagem de uma floresta"
+            },
+            "publishDate": "05 de marc. 2024"
+        }
+        
+    ]
+}
